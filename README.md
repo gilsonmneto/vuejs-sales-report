@@ -1,6 +1,6 @@
 # VUE.JS - SALES REPORT
 
-Topics: VUEJS
+Topics: VUEJS, BOOTSTRAP
 
 Application: Generating a report based on a json file
 
