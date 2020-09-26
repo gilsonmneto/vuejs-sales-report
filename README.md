@@ -2,7 +2,7 @@
 
 Topics: VUEJS
 
-Application: Generating a report based on a http response
+Application: Generating a report based on a json file
 
 Step 1:
 
