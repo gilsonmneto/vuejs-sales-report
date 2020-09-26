@@ -1,12 +1,12 @@
-# VUE.JS - QR CODE GENERATOR
+# VUE.JS - SALES REPORT
 
 Topics: VUEJS
 
-Application: QR Code generator
+Application: Generating a report based on a http response
 
 Step 1:
 
-### git clone https://github.com/gilsonmneto/vuejs-qrcode-generator.git
+### git clone https://github.com/gilsonmneto/vuejs-sales-report.git
 
 Step 2:
 
